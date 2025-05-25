@@ -1,0 +1,115 @@
+<template>
+    <h1>Privacy Policy</h1>
+    <p><strong>Ultimo aggiornamento:</strong> 19/05/2025</p>
+
+    <h2>1. Dati Raccolti</h2>
+    <p>
+        Utilizziamo <strong>Firebase</strong> per gestire alcune funzionalità
+        della nostra app. In particolare, potremmo raccogliere:
+    </p>
+    <ul>
+        <li>
+            Informazioni di autenticazione (es. email, nome, ID utente) tramite
+            <strong>Firebase Authentication</strong>
+        </li>
+        <li>
+            Dati salvati nel cloud (es. note, preferenze, contenuti generati
+            dall’utente) tramite <strong>Cloud Firestore</strong>
+        </li>
+    </ul>
+    <p>
+        <strong>Non raccogliamo informazioni sensibili</strong> come dati
+        sanitari, biometrici, o di pagamento (a meno che non sia specificato).
+    </p>
+
+    <h2>2. Finalità del Trattamento</h2>
+    <p>Utilizziamo i dati raccolti per:</p>
+    <ul>
+        <li>Fornire e migliorare i servizi offerti dall'app</li>
+        <li>Gestire l'autenticazione e l’accesso ai dati personali</li>
+        <li>Personalizzare l'esperienza utente</li>
+        <li>Monitorare l’utilizzo dell’app per fini analitici</li>
+        <li>Correggere bug e migliorare la stabilità dell’app</li>
+    </ul>
+
+    <h2>3. Conservazione dei Dati</h2>
+    <p>
+        I tuoi dati sono archiviati in modo sicuro tramite i servizi di Google
+        Firebase. Conserveremo le informazioni per il tempo necessario a fornire
+        i nostri servizi o come richiesto dalla legge.
+    </p>
+
+    <h2>4. Condivisione dei Dati</h2>
+    <p>
+        Non vendiamo, affittiamo o condividiamo i tuoi dati personali con terze
+        parti, salvo nei seguenti casi:
+    </p>
+    <ul>
+        <li>Se richiesto dalla legge o da un procedimento legale</li>
+        <li>
+            Per proteggere i diritti, la proprietà o la sicurezza nostra o di
+            altri
+        </li>
+        <li>
+            Con fornitori di servizi (come Google Firebase) che trattano i dati
+            per nostro conto
+        </li>
+    </ul>
+
+    <h2>5. Sicurezza</h2>
+    <p>
+        Adottiamo misure tecniche e organizzative per proteggere i tuoi dati da
+        accessi non autorizzati, perdita o distruzione. Tuttavia, nessun sistema
+        è completamente sicuro.
+    </p>
+
+    <h2>6. Diritti dell’Utente</h2>
+    <p>Hai il diritto di:</p>
+    <ul>
+        <li>Accedere ai tuoi dati personali</li>
+        <li>Correggere dati errati</li>
+        <li>Richiedere la cancellazione dei tuoi dati</li>
+        <li>Revocare il consenso (se applicabile)</li>
+    </ul>
+    <p>
+        Per esercitare questi diritti, puoi contattarci all'indirizzo:
+        <strong>[inserisci la tua email di contatto]</strong>
+    </p>
+
+    <h2>7. Servizi di Terze Parti</h2>
+    <p>
+        La nostra app può includere link o integrazioni con servizi di terze
+        parti (es. Google, Firebase). Non siamo responsabili delle pratiche di
+        privacy di tali servizi.
+    </p>
+
+    <h2>8. Modifiche alla Privacy Policy</h2>
+    <p>
+        Ci riserviamo il diritto di aggiornare questa informativa. Ti
+        informeremo di eventuali modifiche importanti tramite notifica in-app o
+        aggiornando questa pagina.
+    </p>
+
+    <h2>9. Contatti</h2>
+    <p>Per domande o richieste relative alla privacy, puoi contattarci a:</p>
+    <p>
+        <strong>Email:</strong> ppapaguido@gmail.com<br />
+        <strong>Sviluppatore:</strong> Papa Guido<br />
+        <strong>Paese:</strong> Italia
+    </p>
+</template>
+
+<style scoped>
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 40px;
+}
+h1,
+h2 {
+    color: #2c3e50;
+}
+p {
+    margin-bottom: 15px;
+}
+</style>
