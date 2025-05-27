@@ -1,101 +1,98 @@
 <template>
     <h1>Privacy Policy</h1>
-    <p><strong>Ultimo aggiornamento:</strong> 19/05/2025</p>
+    <p><strong>Last updated:</strong> 19/05/2025</p>
 
-    <h2>1. Dati Raccolti</h2>
+    <h2>1. Data Collection</h2>
     <p>
-        Utilizziamo <strong>Firebase</strong> per gestire alcune funzionalità
-        della nostra app. In particolare, potremmo raccogliere:
+        We use <strong>Firebase</strong> to manage some features of our app.
+        Specifically, we may collect:
     </p>
     <ul>
         <li>
-            Informazioni di autenticazione (es. email, nome, ID utente) tramite
+            Authentication information (e.g., email, name, user ID) through
             <strong>Firebase Authentication</strong>
         </li>
         <li>
-            Dati salvati nel cloud (es. note, preferenze, contenuti generati
-            dall’utente) tramite <strong>Cloud Firestore</strong>
+            Cloud-stored data (e.g., notes, preferences, user-generated content)
+            through <strong>Cloud Firestore</strong>
         </li>
     </ul>
     <p>
-        <strong>Non raccogliamo informazioni sensibili</strong> come dati
-        sanitari, biometrici, o di pagamento (a meno che non sia specificato).
+        <strong>We do not collect sensitive information</strong> such as health
+        data, biometric data, or payment information (unless specified).
     </p>
 
-    <h2>2. Finalità del Trattamento</h2>
-    <p>Utilizziamo i dati raccolti per:</p>
+    <h2>2. Purpose of Data Processing</h2>
+    <p>We use the collected data to:</p>
     <ul>
-        <li>Fornire e migliorare i servizi offerti dall'app</li>
-        <li>Gestire l'autenticazione e l’accesso ai dati personali</li>
-        <li>Personalizzare l'esperienza utente</li>
-        <li>Monitorare l’utilizzo dell’app per fini analitici</li>
-        <li>Correggere bug e migliorare la stabilità dell’app</li>
+        <li>Provide and improve the services offered by the app</li>
+        <li>Manage authentication and access to personal data</li>
+        <li>Personalize the user experience</li>
+        <li>Monitor app usage for analytical purposes</li>
+        <li>Fix bugs and improve app stability</li>
     </ul>
 
-    <h2>3. Conservazione dei Dati</h2>
+    <h2>3. Data Retention</h2>
     <p>
-        I tuoi dati sono archiviati in modo sicuro tramite i servizi di Google
-        Firebase. Conserveremo le informazioni per il tempo necessario a fornire
-        i nostri servizi o come richiesto dalla legge.
+        Your data is securely stored through Google Firebase services. We will
+        retain the information for as long as necessary to provide our services
+        or as required by law.
     </p>
 
-    <h2>4. Condivisione dei Dati</h2>
+    <h2>4. Data Sharing</h2>
     <p>
-        Non vendiamo, affittiamo o condividiamo i tuoi dati personali con terze
-        parti, salvo nei seguenti casi:
+        We do not sell, rent, or share your personal data with third parties,
+        except in the following cases:
     </p>
     <ul>
-        <li>Se richiesto dalla legge o da un procedimento legale</li>
+        <li>If required by law or legal proceedings</li>
+        <li>To protect our or others' rights, property, or safety</li>
         <li>
-            Per proteggere i diritti, la proprietà o la sicurezza nostra o di
-            altri
-        </li>
-        <li>
-            Con fornitori di servizi (come Google Firebase) che trattano i dati
-            per nostro conto
+            With service providers (such as Google Firebase) who process data on
+            our behalf
         </li>
     </ul>
 
-    <h2>5. Sicurezza</h2>
+    <h2>5. Security</h2>
     <p>
-        Adottiamo misure tecniche e organizzative per proteggere i tuoi dati da
-        accessi non autorizzati, perdita o distruzione. Tuttavia, nessun sistema
-        è completamente sicuro.
+        We implement technical and organizational measures to protect your data
+        from unauthorized access, loss, or destruction. However, no system is
+        completely secure.
     </p>
 
-    <h2>6. Diritti dell’Utente</h2>
-    <p>Hai il diritto di:</p>
+    <h2>6. User Rights</h2>
+    <p>You have the right to:</p>
     <ul>
-        <li>Accedere ai tuoi dati personali</li>
-        <li>Correggere dati errati</li>
-        <li>Richiedere la cancellazione dei tuoi dati</li>
-        <li>Revocare il consenso (se applicabile)</li>
+        <li>Access your personal data</li>
+        <li>Correct inaccurate data</li>
+        <li>Request deletion of your data</li>
+        <li>Withdraw consent (if applicable)</li>
     </ul>
     <p>
-        Per esercitare questi diritti, puoi contattarci all'indirizzo:
-        <strong>[inserisci la tua email di contatto]</strong>
+        To exercise these rights, you can contact us at:
+        <strong>[insert your contact email]</strong>
     </p>
 
-    <h2>7. Servizi di Terze Parti</h2>
+    <h2>7. Third-Party Services</h2>
     <p>
-        La nostra app può includere link o integrazioni con servizi di terze
-        parti (es. Google, Firebase). Non siamo responsabili delle pratiche di
-        privacy di tali servizi.
+        Our app may include links or integrations with third-party services
+        (e.g., Google, Firebase). We are not responsible for the privacy
+        practices of such services.
     </p>
 
-    <h2>8. Modifiche alla Privacy Policy</h2>
+    <h2>8. Privacy Policy Changes</h2>
     <p>
-        Ci riserviamo il diritto di aggiornare questa informativa. Ti
-        informeremo di eventuali modifiche importanti tramite notifica in-app o
-        aggiornando questa pagina.
+        We reserve the right to update this policy. We will inform you of any
+        significant changes through in-app notifications or by updating this
+        page.
     </p>
 
-    <h2>9. Contatti</h2>
-    <p>Per domande o richieste relative alla privacy, puoi contattarci a:</p>
+    <h2>9. Contact</h2>
+    <p>For questions or requests regarding privacy, you can contact us at:</p>
     <p>
         <strong>Email:</strong> ppapaguido@gmail.com<br />
-        <strong>Sviluppatore:</strong> Papa Guido<br />
-        <strong>Paese:</strong> Italia
+        <strong>Developer:</strong> Papa Guido<br />
+        <strong>Country:</strong> Italy
     </p>
 </template>
 
